@@ -192,4 +192,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*Banana · Updated 2026-11-16 · Shared under the MIT License*
+*Banana · Updated 2026-11-17 · Shared under the MIT License*
